@@ -2,12 +2,11 @@
 
 **Manage Today • Grow Together** · *Ghar ki har zimmedari, ek jagah.*
 
-Landing page for **Kuber Kutumb**, a thoughtfully designed Indian household app —
-family expenses, bills and udhaar, kids' school and tiffin, household staff, health,
-and home services, brought together in one calm place.
+Landing page for **Kuber Kutumb** — a thoughtfully designed Indian household app concept
+for family expenses, bills, household staff, kids, home services and health.
 
-Copy is written in a **Hinglish + English** voice: Hinglish for the emotional hooks and
-headlines, English for the explanatory body.
+The copy follows the brand's Hinglish + English voice; the design system (cream, gold and
+emerald green) is built around the Kuber Kutumb logo.
 
 ## Live site
 
@@ -21,18 +20,19 @@ headlines, English for the explanatory body.
 
 ## Sections
 
-- **Hero** — "Har ghar ka apna saathi." with an illustrative phone mockup of the app.
-- **Stats strip** — 5 hubs, 30+ trackers, one-tap reports, zero clutter.
-- **The Vision** — six cards: Family Expenses, Bills & Payments, Household Staff,
+- **Hero** — "Har Ghar Ka Apna Saathi." with an illustrative phone mockup.
+- **Pillars** — One Home One Place · Made for Indian Families · Family-first by design ·
+  Everyday household clarity · Indian roots, modern experience.
+- **What We Envision** — six cards: Family Expenses, Bills & Payments, Household Staff,
   Kids & Family, Home Services, Health & Care.
-- **Deep dives** — Money, Family & kids, Staff & well-being, Home & services.
-- **Ghar Assistant** — the AI companion, with example questions and answers.
-- **Privacy-first**, **How it works**, **FAQ**, **early-access CTA**, and footer.
+- **Our Philosophy** — the meaning behind the name (Kuber · Kutumb).
+- **How It Works** — "Less juggling. More living." and three straightforward ideas.
+- **A glimpse of the vision** — "Smart thinking. Warm Indian heart."
+- **FAQ**, **closing CTA**, and footer.
 
 ## Notes
 
-- The project is in development; the page does not claim a live app store release.
+- The project is in development; the page does not claim a Play Store release or a live service.
 - Fully responsive; degrades gracefully if JavaScript is disabled.
-- The "Get early access" button opens the visitor's email client, addressed to `ss936857@gmail.com`.
 
 © 2026 Kuber Kutumb
